@@ -9,4 +9,4 @@ graduate from South China Univ of Tech, worked as research assistant in HKU, now
 - 😄 Pronouns: I don`t care
 - ⚡ Fun fact: You will discover more if you contact me more!
 - 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=turswiming&exclude_days=Sun%2CSat&card_width=1024)](https://git.io/streak-stats)
