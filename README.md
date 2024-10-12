@@ -4,7 +4,8 @@ graduate from South China Univ of Tech, worked as research assistant in HKU, now
 ![python](https://img.shields.io/badge/python-python?style=flat&logo=python&logoColor=%23FFFFFF&color=%233776AB)
 ![Static Badge](https://img.shields.io/badge/CPP-python?style=flat&logo=C%2B%2B&logoColor=%23FFFFFF&color=%2300599C)
 ![Static Badge](https://img.shields.io/badge/Lua-Lua?style=flat&logo=Lua&logoColor=%23FFFFFF&color=%232C2D72)
-![Static Badge](https://img.shields.io/badge/.NET-Lua?style=flat&logo=dotnet&logoColor=%23FFFFFF&color=%23512BD4)  
+![Static Badge](https://img.shields.io/badge/.NET-Lua?style=flat&logo=dotnet&logoColor=%23FFFFFF&color=%23512BD4)
+[kotlin](https://img.shields.io/badge/kotlin-kotlin?logo=kotlin&logoColor=%23FFFFFF&color=%237F52FF)  
 - learned tools  
 ![Static Badge](https://img.shields.io/badge/tensorflow-tensorflow?style=flat&logo=tensorflow&logoColor=%23FFFFFF&color=%23FF6F00)
 ![Static Badge](https://img.shields.io/badge/docker-Lua?style=flat&logo=Docker&logoColor=%23FFFFFF&color=%232496ED)
@@ -21,5 +22,5 @@ graduate from South China Univ of Tech, worked as research assistant in HKU, now
 - 😄 Pronouns: I don`t care
 - ⚡ Fun fact: You will discover more if you contact me more!
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=turswiming&theme=default&show_icons=true&hide_border=true&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com?user=turswiming&hide_border=%E5%81%87&exclude_days=Sun%2CSat&card_width=1024)](https://git.io/streak-stats)
