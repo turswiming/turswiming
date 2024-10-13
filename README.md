@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/71206440?v=4" width="100"/>
+  <img src="./pic/banner.jpg"/>
 </div>
 <p align="center">
     <img src="https://img.shields.io/badge/python-python?style=flat&logo=python&logoColor=%23FFFFFF&color=%233776AB" alt="python">
