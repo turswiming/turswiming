@@ -2,12 +2,6 @@
 
 <div style="position: relative; width: 100%; text-align: center;">
   <img src="./pic/banner.jpg" style="width: 100%; height: auto;">
-  <div style="position: absolute; top: 30%; left: 30%; transform: translate(-50%, -50%); color: white;">
-    <p style="font-size: 48px;">Hello! there</p>
-  </div>
-  <div style="position: absolute; top: 50%; left: 18%; transform: translate(-50%, -50%); color: white;">
-    <p style="font-size: 24px;">Welcome!</p>
-  </div>
 </div>
 <p align="center">
     <img src="https://img.shields.io/badge/python-python?style=flat&logo=python&logoColor=%23FFFFFF&color=%233776AB" alt="python">
