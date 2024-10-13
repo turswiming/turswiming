@@ -31,4 +31,4 @@ Kigurumi lover! anime fun! Night owl!
 - ⚡ Fun fact: You will discover more if you contact me more!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=turswiming&theme=default&show_icons=true&hide_border=false&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=turswiming&hide_border=%E5%81%87&exclude_days=Sun%2CSat&card_width=762)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=turswiming&hide_border=%E5%81%87&exclude_days=Sun%2CSat&card_width=300&card_height=150)](https://git.io/streak-stats)
