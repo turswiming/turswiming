@@ -18,6 +18,9 @@
 <p align="center">
     <img src="https://img.shields.io/badge/ubuntu-ubuntu?style=flat&logo=ubuntu&logoColor=%23FFFFFF&color=%23E95420" alt="Ubuntu">
 </p>
+<p align="center">
+linkedin: <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-linkedin?logo=inspire&logoColor=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fli-ziqi-817259333%2F">
+  </p>
 
 graduate from South China Univ of Tech, worked as research assistant in HKU, now study at PolyU  
 Kigurumi lover! anime fun! Night owl!
@@ -29,6 +32,6 @@ Kigurumi lover! anime fun! Night owl!
 - 📫 How to reach me: ziq93812@gmail.com
 - 😄 Pronouns: I don`t care
 - ⚡ Fun fact: You will discover more if you contact me more!  
-linkedin: https://www.linkedin.com/in/li-ziqi-817259333/
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=turswiming&theme=default&show_icons=true&hide_border=false&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com?user=turswiming&hide_border=%E5%81%87&exclude_days=Sun%2CSat&card_width=300&card_height=150)](https://git.io/streak-stats)
