@@ -28,7 +28,7 @@ Kigurumi lover! anime fun! Night owl!
 - 💬 Please feel free to ask me about CG, .Net framework and so on
 - 📫 How to reach me: ziq93812@gmail.com
 - 😄 Pronouns: I don`t care
-- ⚡ Fun fact: You will discover more if you contact me more!
-
+- ⚡ Fun fact: You will discover more if you contact me more!  
+linkedin: https://www.linkedin.com/in/li-ziqi-817259333/
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=turswiming&theme=default&show_icons=true&hide_border=false&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com?user=turswiming&hide_border=%E5%81%87&exclude_days=Sun%2CSat&card_width=300&card_height=150)](https://git.io/streak-stats)
