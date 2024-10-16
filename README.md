@@ -18,9 +18,6 @@
 <p align="center">
     <img src="https://img.shields.io/badge/ubuntu-ubuntu?style=flat&logo=ubuntu&logoColor=%23FFFFFF&color=%23E95420" alt="Ubuntu">
 </p>
-<p align="center">
-linkedin: <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-linkedin?logo=inspire&logoColor=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fli-ziqi-817259333%2F">
-  </p>
 
 graduate from South China Univ of Tech, worked as research assistant in HKU, now study at PolyU  
 Kigurumi lover! anime fun! Night owl!
