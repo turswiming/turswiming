@@ -11,9 +11,10 @@
     <img src="https://img.shields.io/badge/kotlin-kotlin?logo=kotlin&logoColor=%23FFFFFF&color=%237F52FF" alt="kotlin">
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/tensorflow-tensorflow?style=flat&logo=tensorflow&logoColor=%23FFFFFF&color=%23FF6F00" alt="Tensoflow">
+    <img src="https://img.shields.io/badge/pytorch-pytorch?style=flat&logo=pytorch&logoColor=%23FFFFFF&color=%23FF6F00" alt="pytorch">
     <img src="https://img.shields.io/badge/docker-Lua?style=flat&logo=Docker&logoColor=%23FFFFFF&color=%232496ED" alt="Docker">
     <img src="https://img.shields.io/badge/cmake-cmake?style=flat&logo=cmake&logoColor=%23FFFFFF&color=%23064F8C" alt="cmake">
+    <img src="https://img.shields.io/badge/tensorflow-tensorflow?style=flat&logo=tensorflow&logoColor=%23FFFFFF&color=%23FF6F00" alt="Tensoflow">
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/ubuntu-ubuntu?style=flat&logo=ubuntu&logoColor=%23FFFFFF&color=%23E95420" alt="Ubuntu">
@@ -21,8 +22,8 @@
 
 graduate from South China Univ of Tech, worked as research assistant in HKU, now study at PolyU  
 Kigurumi lover! anime fun! Night owl!
-- 🔭 I’m currently working on LLM and it`s undering on space syntax
-- 🌱 I’m currently learning computational lingustics
+- 🔭 I’m currently working on text 2 sql and explainable AI
+- 🌱 I’m currently learning CNN
 - 👯 I’m looking to collaborate on researchers who have interest in CV, CG, GNN and LLM
 - 🤔 I’m looking for help with GNN/LLM
 - 💬 Please feel free to ask me about CG, .Net framework and so on
