@@ -22,7 +22,7 @@
 
 graduate from South China Univ of Tech, worked as research assistant in HKU, now study at PolyU  
 Kigurumi lover! anime fun! Night owl!
-- 🔭 I’m currently working on point cloud and explainable AI
+- 🔭 I’m currently working on point cloud and unsupervised learning
 - 🌱 I’m currently learning CNN
 - 👯 I’m looking to collaborate on researchers who have interest in CV, CG, GNN and LLM
 - 💬 Please feel free to ask me about OpenGL, .Net framework and so on
