@@ -25,7 +25,7 @@ Kigurumi lover! anime fun! Night owl!
 - 🔭 I’m currently working on point cloud and unsupervised learning
 - 🌱 I’m currently learning Point Transformer
 - 👯 I’m looking to collaborate on researchers who have interest in CV, CG, GNN and LLM
-- 💬 Please feel free to ask me about OpenGL, .Net framework and so on
+- 💬 Please feel free to ask me about OpenGL, .Net framework.
 - 📫 How to reach me: ziq93812@gmail.com
 - 😄 Pronouns: I don`t care
 
