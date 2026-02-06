@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<div style="position: relative; width: 100%; text-align: center;">
-  <img src="./pic/banner.jpg" style="width: 100%; height: auto;">
-</div>
+
 <p align="center">
     <img src="https://img.shields.io/badge/python-python?style=flat&logo=python&logoColor=%23FFFFFF&color=%233776AB" alt="python">
     <img src="https://img.shields.io/badge/CPP-python?style=flat&logo=C%2B%2B&logoColor=%23FFFFFF&color=%2300599C" alt="CPP">
@@ -22,12 +20,14 @@
 
 graduate from South China Univ of Tech, worked as research assistant in HKU, now study at PolyU  
 Kigurumi lover! anime fun! Night owl!
-- 🔭 I’m currently working on point cloud and unsupervised learning
-- 🌱 I’m currently learning Point Transformer
+- 🔭 I’m currently working on unsupervised learning, Segmentation 
+- 🌱 I’m currently learning Point Transformer/ spconv
 - 👯 I’m looking to collaborate on researchers who have interest in CV, CG, GNN and LLM
 - 💬 Please feel free to ask me about OpenGL, .Net framework.
 - 📫 How to reach me: ziq93812@gmail.com
 - 😄 Pronouns: I don`t care
-
+<div style="position: relative; width: 100%; text-align: center;">
+  <img src="./pic/banner.jpg" style="width: 100%; height: auto;">
+</div>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=turswiming&theme=default&show_icons=true&hide_border=false&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com?user=turswiming&hide_border=%E5%81%87&exclude_days=Sun%2CSat&card_width=300&card_height=150)](https://git.io/streak-stats)
